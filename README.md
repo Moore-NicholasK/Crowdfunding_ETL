@@ -2,7 +2,7 @@
 Project 2 for Data Viz Class by Judith Cuellar And Nicholas Moore.
 
 ##
-We worked primarily individually in separate wip (work in progress) files, then sanity checked together.  The each of us finalized the code for 2 sections of the project and contributed to a single named "ETL_Mini_Project_Nmoore_Jcuellar.ipynb".
+We worked primarily individually in separate wip (work in progress) files, then sanity checked together.  Then each of us finalized the code for 2 sections of the project and contributed to a single named "ETL_Mini_Project_Nmoore_Jcuellar.ipynb".
 
 Our resulting 4 .csv files can be found in the Resources directory under the names:
 * campaign.csv
